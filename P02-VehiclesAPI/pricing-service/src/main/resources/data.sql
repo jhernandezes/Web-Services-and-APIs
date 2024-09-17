@@ -1,9 +1,0 @@
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(1, 'USD', 11000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(2, 'USD', 12000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(3, 'USD', 13000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(4, 'USD', 14000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(5, 'USD', 15000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(6, 'USD', 16000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(7, 'USD', 17000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(8, 'USD', 18000.0);
-INSERT INTO PRICE(vehicleId, currency, price) VALUES(9, 'USD', 19000.0);
